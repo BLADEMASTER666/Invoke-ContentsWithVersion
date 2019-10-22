@@ -1,0 +1,2 @@
+# Invoke-ContentsWithVersion
+Excelなどのファイルにバ自動でバージョン番号を付けて起動します。
